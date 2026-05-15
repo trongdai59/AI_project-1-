@@ -1,0 +1,210 @@
+name,address,coords,main_dish,price,meal_type,cuisine_suggestion,calo_estimate(kcal)
+Nhà hàng chay Sanité,"46 Trương Quốc Dung, Phú Nhuận, Hồ Chí Minh 72200, Việt Nam","10.79703010407631, 106.67248426971918",Gỏi bắp trứng muối,120000,Healhy meal,Vietnamese,320
+Quán Cô Hồng - Bình Thạnh,"44 Trương Quốc Dung, Phú Nhuận, Hồ Chí Minh, Việt Nam","10.79691223677803, 106.67247150480826",Cá nục bông hấp cuốn rau,100000,Full meal,Vietnamese,350
+"Bếp Quà Sáng – Xôi, Bún, Phở Hà Nội","35 Hoàng Diệu, Phú Nhuận, Hồ Chí Minh 72252, Việt Nam","10.79595894877131, 106.67065521595893",Xôi xéo,40000,Full meal,Vietnamese,550
+HKT COFFEE 2,"19 Đ. Đặng Văn Ngữ, Phú Nhuận, Hồ Chí Minh, Việt Nam","10.795831467333134, 106.66984619589145",Bò bít tết,45000,Full meal,Vietnamese,700
+BẾP HT,"84a/34 Đ. Trần Hữu Trang, Phú Nhuận, Hồ Chí Minh, Việt Nam","10.794428406187004, 106.67196518484998",Cơm tấm,40000,Full meal,Vietnamese,650
+Tiệm Ăn Nhà Mến,"80/14 Đ. Đặng Văn Ngữ, Phú Nhuận, Hồ Chí Minh 70000, Việt Nam","10.794957898961709, 106.6689842833733",Chả mực Hạ Long,80000,Snack,Vietnamese,350
+Phở Bắc Hải (Phở Khởi),"295 Nguyễn Trọng Tuyển, Phú Nhuận, Hồ Chí Minh, Việt Nam","10.798058456038245, 106.67002801560044",Phở bò,50000,Full meal,Vietnamese,450
+Quán Ruốc,"298/3 Nguyễn Trọng Tuyển, Tân Sơn Hòa, Hồ Chí Minh, Việt Nam","10.79883209162493, 106.66863757831055",Bún giấm nuốc,120000,Full meal,Vietnamese,430
+Ikigai Sushi,"236 Nguyễn Trọng Tuyển, Phú Nhuận, Hồ Chí Minh 700000, Việt Nam","10.798139712404284, 106.67338231121285",Sashimi cá hồi,300000,Full meal,Japanese,250
+CƠM KHAY GỖ,"214 Nguyễn Trọng Tuyển, Phú Nhuận, Hồ Chí Minh 700000, Việt Nam","10.798001496888272, 106.67381021605318",Cơm khay ba rọi,80000,Full meal,Vietnamese,780
+PAU - Sous vide healthy food,"220/8 Nguyễn Trọng Tuyển, Phú Nhuận, Hồ Chí Minh 70000, Việt Nam","10.798290678360626, 106.67399024563419",Salad ức gà kajun,190000,Healhy meal,Western,380
+Here & Now Vegetarian,"220/12 Nguyễn Trọng Tuyển, Phú Nhuận, Hồ Chí Minh, Việt Nam","10.79857388996306, 106.67373980819241",Mì ý sốt nấm cà chua,95000,Healhy meal,Western,520
+LONG WANG 183 Lê Văn Sỹ,"183 Đ. Lê Văn Sỹ, Phú Nhuận, Hồ Chí Minh 70000, Việt Nam","10.793141440461882, 106.67057298717009",Nấm đông cô nhân sò điệp,110000,Full meal,Chinese,250
+Khoai lang mật Đà Lạt Nướng Ritaki,"420/11 Huỳnh Văn Bánh, Phú Nhuận, Hồ Chí Minh 70000, Việt Nam","10.792522359974967, 106.6695052889845",Khoai lang nướng Đà Lạt,60000,Snack,Vietnamese,180
+Mầm Vegetarian - Nhà hàng chay Mầm,"197 Đ. Nguyễn Văn Trỗi, Phú Nhuận, Hồ Chí Minh 70000, Việt Nam","10.797491444352024, 106.67287641784877",Súp rong biển,60000,Healhy meal,Vietnamese,120
+"NT Food - Phở, Lẩu Tứ Xuyên, Món Tiềm QL50","1130 QL50, Bình Hưng, Hồ Chí Minh 700000, Việt Nam","10.71090865096212, 106.65463605536553",Phở bò,40000,Full meal,Vietnamese,450
+Mr. Pokki Korean Bình Chánh,"1J Đường số 12, Khu dân cư phong Phú 4, Bình Hưng, Hồ Chí Minh, Việt Nam","10.695851155795665, 106.64681045760436",Mì kim chi bò,55000,Full meal,Korean,620
+Hủ Tiếu Cá Tài Ký,"185A Tân Sơn Nhì, P. Tân Sơn Nhì,  Quận Tân Phú, TP. HCM","10.799535532897528, 106.6322971865136",Hủ tiếu mì,35000,Full meal,Vietnamese,520
+Chay Sen Quán,"198D QL50, Bình Hưng, Hồ Chí Minh 70000, Việt Nam","10.701952122687652, 106.65371760219698",Bún Huế,30000,Full meal,Vietnamese,480
+KFC-Nhà hàng thức ăn nhanh,"14 Phạm Ngọc Thạch, Xuân Hòa, Hồ Chí Minh 700000, Việt Nam","10.783632685225546, 106.69513702202225",Combo Mỳ ý Gà rán ,95000,Fast food,Western,950
+Ẩm Thực Quê Nhà Quận 3,"28 Phạm Ngọc Thạch, Xuân Hòa, Hồ Chí Minh 700000, Việt Nam","10.784581881243309, 106.69401299390023",Cơm cháy quê nhà ,179000,Full meal,Vietnamese,430
+Anh Coffee Roastery,"200 Pasteur, Xuân Hòa, Hồ Chí Minh 700000, Việt Nam","10.783086805049845, 106.69348716799355",Salad Cá hồi hun khói ,120000,Healthy meal,Western,350
+TIAN LONG 130A Nguyễn Đình Chiểu,"130A Nguyễn Đình Chiểu, Xuân Hòa, Hồ Chí Minh 700000, Việt Nam","10.783817587852605, 106.69484901463119",Lẩu Bò ,1323000,Full meal,Chinese,750
+LONG WANG Hồ Con Rùa,"11 Phạm Ngọc Thạch, Xuân Hòa, Hồ Chí Minh 700000, Việt Nam","10.783012867318986, 106.69550743496447",Gà ta hầm sâm,155000,Full meal,Vietnamese,520
+Mille Mille,"32 Trần Cao Vân, Xuân Hòa, Hồ Chí Minh 700000, Việt Nam","10.783750950637296, 106.69627265588277",Banana Nutella Croissant ,80000,Snack,Dessert,420
+Truyền Thuyết ChamPong Quận 1 - 전설의짬뽕 1군점,"20 Trần Cao Vân, Sài Gòn, Hồ Chí Minh 700000, Việt Nam","10.784496963548106, 106.69737380744004",Mì tương đen ,150000,Full meal ,Korean,600
+Bánh Mì 362,"25 Trần Cao Vân, Sài Gòn, Hồ Chí Minh 70000, Việt Nam","10.78397701935204, 106.69741485582466",Bánh mì ốp la ,49000,Full meal ,Vietnamese,500
+Mellow Beans Cafe,"1 Công trường Quốc Tế, Xuân Hòa, Hồ Chí Minh, Việt Nam","10.782013357644608, 106.69586910892384",Matcha latte ,55000,Drink ,Dessert,220
+OKKIO Caffe - Duy Tân,"41/1 Phạm Ngọc Thạch, Xuân Hòa, Hồ Chí Minh, Việt Nam","10.784654017532283, 106.69325118348522",Cold Brew Coffe,75000,Drink ,Dessert,20
+Pizza 4P's Hai Bà Trưng,"151A-151B, Hai Bà Trưng, Xuân Hòa, Hồ Chí Minh 700000, Việt Nam","10.783171300991725, 106.69707913501269",Phô mai Burrata thịt nguội ,298000,Fast food,Western,520
+Nhà Hàng Chang Kang Kung Lê Qúy Đôn,"14 Lê Quý Đôn, Xuân Hòa, Hồ Chí Minh, Việt Nam","10.781242404138228, 106.69128240742856",Trứng cá chuỗi ngọc hấp chuối ,125000,Full meal,Vietnamese,350
+Sukiya Pasteur,"224C Pasteur, Xuân Hòa, Hồ Chí Minh, Việt Nam","10.784314631897121, 106.69197131078414",Mì bò điểm tâm,40000,Full meal ,Japanese ,560
+Lạc Café,"208/1 Nam Kỳ Khởi Nghĩa, Xuân Hòa, Hồ Chí Minh 100000, Việt Nam","10.78309337125608, 106.69134595394999",Sữa Socola,40000,Drink,Dessert,190
+TOUS les JOURS - Hai Bà Trưng,"180 Hai Bà Trưng, Tân Định, Hồ Chí Minh 700000, Việt Nam","10.786274356244174, 106.6943073221685",Trà dưa lưới ,65000,Drink ,Dessert,150
+Jollibee Pasteur,"194D Pasteur, Phường, Xuân Hòa, Hồ Chí Minh 700000, Việt Nam","10.78172095879121, 106.69485376630983",ChickenJoy,86000,Fast food,Western ,430
+The Street NTMK,"102 Nguyễn Thị Minh Khai, Xuân Hòa, Hồ Chí Minh 70000, Việt Nam","10.780097909240235, 106.6950874165593",Cháo nghêu ,125000,Full meal ,Vietnamese,280
+Warning Zone 173,"173 Hai Bà Trưng, Phường, Xuân Hòa, Hồ Chí Minh 700000, Việt Nam","10.784833249328928, 106.69512615872844",Bò cuốn cải xanh ,215000,Full meal ,Vietnamese,350
+Trà 1000M - 130A Nguyễn Đình Chiểu,"130a Nguyễn Đình Chiểu, Xuân Hòa, Hồ Chí Minh, Việt Nam","10.783856514534586, 106.69481150114946",Americano ,40000,Drink ,Dessert ,15
+nhà anh,"206 Pasteur, Xuân Hòa, Hồ Chí Minh 700000, Việt Nam","10.78317574515161, 106.69322008138288",Hến xúc bánh tráng ,75000,Full meal ,Vietnamese,450
+The Vintage Emporium Da Kao,"95 Nguyễn Văn Thủ, Tân Định, Hồ Chí Minh, Việt Nam","10.790134237762885, 106.69929563966788",Ngũ cốc ,195000,Healthy meal ,Vietnamese ,300
+Hủ Tiếu Mực - Bún Thái Hải Sản | Phú Bến Tre | Hủ Tiếu Mực Ngon Quận 1,"2 bis Mai Thị Lựu, Tân Định, Hồ Chí Minh 70000, Việt Nam","10.790727748018705, 106.6998041503087",Hủ tiếu mực ,45000,Full meal ,Vietnamese ,500
+Én’s Kitchen- Italian Cuisine & more,"109/11 Nguyễn Bỉnh Khiêm, Tân Định, Hồ Chí Minh 700000, Việt Nam","10.791467759442162, 106.69974165574119",Cá hồi hun khói ,188000,Full meal ,Vietnamese ,350
+Hội An Sense Restaurant,"12 Phan Kế Bính, Tân Định, Hồ Chí Minh 700000, Việt Nam","10.790559274944716, 106.69886280227342",Mực nướng muối ớt ,298000,Full meal ,Vietnamese ,300
+Cuc Gach Cafe,"79 Phan Kế Bính, Tân Định, Hồ Chí Minh, Việt Nam","10.790266956422665, 106.69880236194584",Ca bống kho tiêu ,240000,Full meal ,Vietnamese ,380
+Dakao Tipsy,"11A Phan Kế Bính, Tân Định, Hồ Chí Minh 700000, Việt Nam","10.789756164245224, 106.69936861046742",Espresso,59000,Drink ,Western,5
+Nhà Thơm,"42CT Tam Đảo, Cư Xá Bắc Hải, P. 15, Quận 10","10.780197491863634, 106.6642506031883",Trà trái cây,25000,Drinks,Vietnamese,180
+Bánh flan,"347/22 Minh Phụng, P. 2, Quận 11","10.758077082567473, 106.64313210337109",Flan,15000,Desserts,Western,180
+Bánh cuốn Quảng Đông,"669 Nguyễn Trãi, Chợ Lớn, Hồ Chí Minh, Việt Nam","10.75325930685294, 106.66223608802997",Bánh cuốn,45000,Full meal,Chinese,380
+Hủ tiếu xí quách Ngân Phát,"16/1 Lữ Gia, Quận 11","10.77132362750918, 106.6565190167261",Hủ tiếu,50000,Full meal,Vietnamese,520
+Xủi cảo Hà Tôn Quyền ,"162 Hà Tôn Quyền, Quận 11","10.758181626657588, 106.65280431534012",Xủi Cảo,55000,Snack,Chinese,350
+Bánh Cuốn Cô Loan,"357B Lê Đại Hành, P. 11, Quận 11","10.76654, 106.64952",Bánh cuốn,40000,Full meal,Vietnamese,380
+Há Cảo Chi Lăng,"340 Lãnh Binh Thăng, P. 11, Quận 11","10.76551, 106.64724",Há cảo  ,20000,Snack,Vietnamese,300
+Bún thịt nướng Kiều Bảo,"66 Đ. Lữ Gia, Phú Thọ, Hồ Chí Minh, Việt Nam","10.771358697023196, 106.6534980274378",Bún thịt nướng,30000,Full meal,Vietnamese,500
+Lẩu cá dân ích,99 Châu Văn Liêm,"10.753300834057283, 106.65853995933728",Lẩu cá,350000,Full meal,Vietnamese,600
+Highlands Coffee Trần Hưng Đạo,"465 Trần Hưng Đạo, Quận 5","10.752187911191811, 106.65989767986441",Cà phê phin sữa đá,40000,Drinks,Vietnamese,160
+Dimsum nổi tiếng,"38B Học Lạc, P.14","10.752540032125808, 106.65447339971543",Dimsum,45000,Snack,Chinese,420
+Osaka Ramen,64 Nguyễn Thời Trung,"10.75222840744667, 106.66989352420926",Mì Ramen,55000,Full meal,Japanese,520
+Miì trộn khô Hồng kong,"684/24 Trần Hưng Đạo, P2, Q5","10.735735499596839, 106.69297220118595",Mì trộn khô,55000,Full meal,Chinese,550
+Quán Ù Pa,"9A Nguyễn Án, P. 11","10.752708367145514, 106.6605877434123",Ăn vặt,20000,Snack,Vietnamese,450
+Quán lẩu bò kho xương ống,207/6 Trần Bình Trọng ,"10.759170023536186, 106.67995116990855",Lẩu bò kho,180000,Full meal,Vietnamese,550
+Hủ tiếu heo gà,"160 Trần Bình Trọng, P.3","10.758859301981486, 106.6805922247237",Hủ tiếu,100000,Full meal,Vietnamese,520
+Giò Heo Phá Lấu Kha Thi,"37 Đường Số 1, P. An Lạc, Quận Bình Tân","10.7412746065169, 106.60502445342856",Giò heo phá lấu,60000,Full meal,Vietnamese,650
+Sunset & Chill Sky Bar,"1143 Bình Quới, Hồ Chí Minh 820000, Việt Nam","10.830450457144762, 106.73717950925308",Cafe,45000,Drinks,Vietnamese,90
+Mì Vịt Tiềm Hữu Ký,"84 Nguyễn Văn Lạc, Thạnh Mỹ Tây, Hồ Chí Minh, Việt Nam","10.792682287691969, 106.70884353808798",Mì,75000,Full meal,Vietnamese,500
+Trang Minh - Bún Chả Hà Nội,"169 Bùi Đình Tuý, Bình Thạnh, Hồ Chí Minh, Việt Nam","10.807794378349186, 106.70397144041532",Bún chả ,40000,Full meal,Vietnamese,520
+BamBoo Quán,"Hẻm 47/24/33 Hẻm 47/52 Bùi Đình Túy, Bình Thạnh, Hồ Chí Minh 70000, Việt Nam","10.806948476165772, 106.7058901092529",Bánh mì chảo,40000,Snack,Vietnamese,650
+Bánh mì Cô Lành,"6 Đ. Hồ Xuân Hương, Bình Thạnh, Hồ Chí Minh, Việt Nam","10.809085755781467, 106.69609773411126",Bánh mì thịt bò nướng,35000,Snack,Vietnamese,520
+Ốc Singapore,"295 Nguyễn Gia Trí, Khu dân cư Cầu Kinh, Thạnh Mỹ Tây, Hồ Chí Minh, Việt Nam","10.81097487291, 106.7176769687702",Ốc,10000,Snack,Vietnamese,400
+Bò lá lốt mỡ chài,"129/12B Đ. Hoàng Văn Thụ, Phú Nhuận, Hồ Chí Minh 70000, Việt Nam","10.798958938000501, 106.67560395342912",bò lá lốt,80000,Snack,Vietnamese,480
+Nhi Nhi Quán,"164 Đường số 20, An Nhơn, Hồ Chí Minh 70000, Việt Nam","10.835638415386029, 106.68805830925302","Bánh tráng, cá viên",25000,Snack,Vietnamese,520
+Thèm Gì Cũng Có,"327 Đ. Phan Đình Phùng, Cầu Kiệu, Hồ Chí Minh 700000, Việt Nam","10.798462844162547, 106.68058991109959",Bánh tráng tóp mỡ,55000,Snack,Vietnamese,450
+Bánh Mì Cô Điệp,"238 Võ Thành Trang, Bảy Hiền, Hồ Chí Minh, Việt Nam","10.789902798341371, 106.647140138088",Bánh mì,25000,Snack,Vietnamese,430
+Buffe ốc Cô Giang,"59 Nguyễn Hữu Dật, Tây Thạnh, Hồ Chí Minh 760369, Việt Nam","10.807646621449083, 106.63101015342909",Ốc,159000,Snack,Vietnamese,400
+KHÈN - Nướng Sapa,"9 Thoại Ngọc Hầu, Tân Phú, Hồ Chí Minh 100000, Việt Nam","10.784673328288328, 106.63932989918862",Bò Kho ,55000,Full meal,Vietnamese,550
+San San,"147 Hoa Lan, Phường 02, Cầu Kiệu, Hồ Chí Minh 72210, Việt Nam","10.797824472482887, 106.6882031515822",Mì Gà Quay,50000,Full meal,Vietnamese,650
+Quán Út Phượng,"1/2 Lương Định Của, Bình Khánh, An Khánh, Hồ Chí Minh, Việt Nam","10.789336721407787, 106.73764486692328","Há cảo, phá lấu",30000,Snack,Chinese,550
+Bún Riêu Yến,"1348 Trường Sa, Tân Sơn Hòa, Hồ Chí Minh, Việt Nam","10.79190569286818, 106.6638769074058",bún riêu,32000,Full meal,Vietnamese,490
+Bánh Canh Gia Lai,"33 Dân Trí, Tân Hòa, Hồ Chí Minh, Việt Nam","10.784854836659855, 106.6590217534289",Bánh canh,60000,Full meal,Vietnamese,500
+Bánh mì cô Huyền,"6 Đ. Đồ Sơn, Tân Sơn Nhất, Hồ Chí Minh 700000, Việt Nam","10.804786977913134, 106.65916185158224",Bánh Mì Gà Xé Bơ ,25000,Full meal,Vietnamese,600
+Pizza 777,"122/7 Yên Thế, Tân Sơn Hòa, Hồ Chí Minh, Việt Nam","10.814489370067083, 106.66887797857078",Pizza & Hotdog,100000,Fast food,Western,900
+Lyn’s Chicken,"69 Tân Trang, Tân Hòa, Hồ Chí Minh 700000, Việt Nam","10.778492084878923, 106.65431218041732",Gà rán sốt,25000,Fast food,Western,650
+Bánh ướt 25k ,"117 Thoại Ngọc Hầu, Phú Thạnh, Hồ Chí Minh, Việt Nam","10.781455478381766, 106.63563365342895",Bánh ướt ,25000,Full meal,Vietnamese,380
+Tàu Hủ Đá,"1 Đường 3, Khu Phố 6, Thủ Đức, Hồ Chí Minh, Việt Nam","10.83786327822435, 106.76646604303063",Tàu Hũ Đá,450000,Full meal,Vietnamese,220
+Hancook Korean Fast Food,"263 Nguyễn Tri Phương, Diên Hồng, Hồ Chí Minh, Việt Nam","10.760558492042481, 106.66855974918538",Há cảo,80000,Snack,Chinese,300
+Tiệm Bún Đậu CÁM,"206 Nguyễn Tri Phương, Vườn Lài, Hồ Chí Minh 72500, Việt Nam","10.760956460794546, 106.6687766489084",Bún,75000,Healthy meal,Vietnamese,420
+TOSHIRO RAMEN,"184 Nguyễn Tri Phương, Vườn Lài, Hồ Chí Minh 72517, Việt Nam","10.760518503915359, 106.6689025597629",Mì,30000,Full meal,Japanese,500
+Chicken Plus Nguyễn Tri Phương,"226 Nguyễn Tri Phương, Vườn Lài, Hồ Chí Minh 700000, Việt Nam","10.761316825746718, 106.66870009606498",Gà rán,200000,Fast food,Vietnamese,520
+Thái Sumo Lẩu cá viên - Ngô Gia Tự,"494 Ngô Gia Tự, Vườn Lài, Hồ Chí Minh 70000, Việt Nam","10.760324724974133, 106.66904290875809",Lẩu cá viên,150000,Fast food,Vietnamese,600
+Hải sản Hoàng Gia CN Nguyễn Tri Phương,"235 Nguyễn Tri Phương, Diên Hồng, Hồ Chí Minh 70000, Việt Nam","10.760183117206369, 106.66867875999509",Hải sản,1000000,Full meal,Vietnamese,650
+Hải Sản Quý Thành,"303 Nguyễn Tri Phương, Diên Hồng, Hồ Chí Minh 70000, Việt Nam","10.761597695614302, 106.66837502269141",Lẩu hải sản,800000,Full meal,Vietnamese,750
+Bánh mì Brunchi,"37 Đ. Đào Duy Từ, Diên Hồng, Hồ Chí Minh 722200, Việt Nam","10.760523262487718, 106.66771144429075",Bánh mì,20000,Fast food,Vietnamese,430
+CƠM GÀ Tam KỲ,"65 Đ. Đào Duy Từ, Diên Hồng, Hồ Chí Minh, Việt Nam","10.760466759577604, 106.66728516238895",Cơm gà,30000,Full meal,Vietnamese,650
+Hủ Tiếu Mì Quảng Đông,"395/15 Hoà Hảo, Diên Hồng, Hồ Chí Minh, Việt Nam","10.7611856242875, 106.66739476987365",Hủ tiếu,45000,Fast food,Vietnamese,520
+Wallace Nguyễn Tiểu La,"24 Nguyễn Tiểu La, Phường 8, Quận 10, Hồ Chí Minh 700000, Việt Nam","10.760418235848604, 106.66717827732087",Gà,50000,Fast food,Western,450
+Ăn Vặt Khánh Ngọc,"52 Đ. Đào Duy Từ, Diên Hồng, Hồ Chí Minh 700925, Việt Nam","10.760567445313908, 106.6671972574385",Bánh ngọt,30000,Snack,Dessert,350
+Cơm phần Hủ Tiếu Mì Nui 27k,"56 Đ. Đào Duy Từ, Diên Hồng, Hồ Chí Minh, Việt Nam","10.760555587608774, 106.66702693716203",Hủ tiếu,35000,Fast food,Vietnamese,520
+"Sinh tố Hẻm, Đại học Kinh tế HCM","394 Hoà Hảo, Diên Hồng, Hồ Chí Minh, Việt Nam","10.760629444479093, 106.66748278550965",Sinh tố,10000,Drinks,Vietnamese,250
+Bếp Cô Vân,"40 Đ. Đào Duy Từ, Diên Hồng, Hồ Chí Minh 70000, Việt Nam","10.76062494069831, 106.66734468337573",Cơm trưa,30000,Full meal,Vietnamese,700
+Rau Má Mix - Nguyễn Tri Phương,"269 Nguyễn Tri Phương, Diên Hồng, Hồ Chí Minh 70000, Việt Nam","10.760663755581799, 106.66855407306943",Nước rau má,12000,Healthy meal,Vietnamese,120
+Sâm Bí Đao MIKI,"267 Nguyễn Tri Phương, Diên Hồng, Hồ Chí Minh, Việt Nam","10.76058776545155, 106.66857400870147",Nước bí đao,15000,Healthy meal,Vietnamese,110
+Trà Sữa Olong LaSiMi - Nguyễn Tri Phương,"253 Nguyễn Tri Phương, Diên Hồng, Hồ Chí Minh 72406, Việt Nam","10.760312007292686, 106.66855965504071",Trà sữa,15000,Healthy meal,Vietnamese,450
+Hồng Trà Sữa Ba Cô Gái Tam Hảo Nguyễn Tri Phương,"245 Nguyễn Tri Phương, Diên Hồng, Hồ Chí Minh, Việt Nam","10.76017647833161, 106.66859155205961",Trà sữa,12000,Healthy meal,Vietnamese,450
+Ốc Bay - Nguyễn Tri Phương,"236 Nguyễn Tri Phương, Diên Hồng, Hồ Chí Minh 70000, Việt Nam","10.760097354460155, 106.6686082979941",Ốc bay,150000,Desserts,Vietnamese,450
+Ẩm Thực Ông Lý,"196 Nguyễn Tri Phương, Vườn Lài, Hồ Chí Minh 70000, Việt Nam","10.760598689258174, 106.66884823669906",Há cảo,45000,Fast food,Chinese,300
+SushiWay Nguyễn Tri Phương,"192-194 Nguyễn Tri Phương, Vườn Lài, Hồ Chí Minh 700000, Việt Nam","10.760601803767567, 106.66890124568211",Sushi,120000,Full meal,Japanese,400
+Hà Thành Quán,"210 Nguyễn Tri Phương, Vườn Lài, Hồ Chí Minh 700000, Việt Nam","10.761005245997493, 106.66877122268014",Bún phở,30000,Full meal,Vietnamese,460
+Tiệm Trà Soli - SOLITEA Nguyễn Tri Phương,"206 Nguyễn Tri Phương, Vườn Lài, Hồ Chí Minh 700000, Việt Nam","10.760975242155391, 106.66886746433427",Trà sữa,25000,Fast food,Vietnamese,450
+Bếp Chảo nhà 56,53 Phan Đình Phùng,"10.79442, 106.68221",Bánh mì chảo,40000,Full meal,Vietnamese,650
+Trà sữa Together,"200 Nguyễn Thượng Hiền, P. 5","10.80345, 106.68112",Trà sữa,35000,Drink,Vietnamese,450
+ Bánh Mì nướng Muối Ớt,"50 Nguyễn Xuân Khoát, Tân Phú","10.79321, 106.63415",Bánh mì,35000,Full meal,Vietnamese,430
+Bánh mì Gánh siêu dài ngon,"31 Tân Tiến, Tân Bình (6h-11h)","10.78784, 106.65152",Bánh mì,20000,Snack,Vietnamese,430
+ Lẩu Mini ,577 Sư Vạn Hạnh Q10 - 191 Ni Sư Huỳnh Tân Bình,"10.77642, 106.66731",Lẩu,45000,Full meal,Vietnamese,800
+Bánh bèo,"211/116 Hoàng Hoa Thám, Phú nhuận ","10.78351, 106.64324",Bánh bèo,30000,Full meal,Vietnamese,350
+Bánh mì nướng ớt đỏ Thành Công,"50 Nguyễn Xuân Khoái, Tân Thành","10.79234, 106.66012",Bánh mì nướng,20000,Snack,Vietnamese,380
+Bún bò Ngọc Nhân,102 Ngô Thị Thu Minh,"10.79312, 106.66254",Bún bò,55000,Full meal,Vietnamese,480
+Bánh mì nướng muối ớt Phúc Mập,"235 Nguyễn Thái Bình, Tân Bình","10.79921, 106.65213",Bánh mì nướng,30000,Snack,Vietnamese,380
+Lẩu bò 150 (Không gian cafe đẹp),"150 Phan Xích Long, Phú nhuận","10.79612, 106.68541",Lẩu bò,200000,Full meal,Vietnamese,750
+Mì Quảng Trộn Bắp Giò Cô Yến,"736/31 Cách Mạng Tháng 8, Phường 5, Quận Tân Bình, Phường 05, Quận Tân Bình, Hồ Chí Minh","10.78952, 106.66184",Mì quảng,35000,Full meal,Vietnamese,540
+Bánh đúc hành phi,"100/14 Thích Quảng Đức, P5, Phú Nhuận","10.80312, 106.68352",Bánh đúc,35000,Snack,Vietnamese,330
+ Bún xì dầu,"01 Quách văn tuấn, p.12, Tân Bình","10.80054, 106.65012",Bún xì dầu,40000,Snack,Vietnamese,420
+"Bánh Mì Bì Thịt, Bánh Hỏi Nem Thịt Nướng","22 Trần Kế Xương, Phú Nhuận","10.79812, 106.68512",Bánh mì,35000,Snack,Vietnamese,430
+Bánh mì 12k,"24 lương thế vinh, tân phú","10.77123, 106.63154",Bánh mì ,12000,Snack,Vietnamese,430
+Bánh xèo giòn bình thuận ,"1 Huỳnh đình Hai, phú nhuận","10.80154, 106.69521",Bánh xèo,12000,Snack,Vietnamese,550
+ Lẩu tôm hùm đại dương,"67 Lê Trung Nghĩa, Tân Bình","10.79982, 106.64951",Lẩu,140000,Full meal,Vietnamese,800
+Bún thịt nướng sốt đậu miền Trung,"64 Hồng Hà, Phường 02, Quận Tân Bình, Hồ Chí Minh","10.81234, 106.66812",Bún thịt nướng,45000,Full meal,Vietnamese,500
+Cơm tấm Nạc giòn,"33/16 Nguyễn Đình Chính,  Quận Phú Nhuận, T","10.79312, 106.67845",Cơm tấm,60000,Full meal,Vietnamese,650
+Thịt xiên nướng - Cơm Lam,"48 Đồng Đen, P.12","10.79342, 106.64312",Thịt xiên nướng,20000,Full meal,Vietnamese,420
+Bánh mì Xíu mại ngon,1A Hồ Văn Huê,"10.80123, 106.67541",Bánh mì,20000,Snack,Vietnamese,430
+Miến măng vịt,181 Bùi Thị Xuân,"10.79354, 106.65821",Miến vịt,30000,Full meal,Vietnamese,520
+Bánh canh Cá Lóc 25k,340 Nguyễn Sơn,"10.78852, 106.62143",Bánh canh,50000,Full meal,Vietnamese,500
+Bánh canh Cá Lóc Quảng Trị O Hiền ngon 30k,12/20 Phạm Văn Hai,"10.79421, 106.66212",Bánh canh,25000,Full meal,Vietnamese,500
+"Flan, Chè, Bánh bèo, Bột lọc Hoài Thương",10 Cô Giang,"10.79654, 106.68312",Ăn vặt,30000,Snack,Vietnamese,450
+Cơm tấm Xí Muội - Nem nướng buôn mê,"1090 Lạc Long Quân, P.8, Tân Bình","10.78451, 106.65123",Cơm tấm,20000,Full meal,Vietnamese,650
+Nướng Lẩu Zaka 79,"16 Trường Chính, P.4","10.79251, 106.65584",Nướng lẩu,35000,Full meal,Vietnamese,800
+Gòn BÚN CHẢ bà Khách,3 Hậu Giang,"10.79723, 106.65812",Bún chả,100000,Full meal,Vietnamese,520
+Aroy Thái,86 Hoa Cúc,"10.79542, 106.68815",Mì - Hủ tiếu thái,45000,Full meal,Thai,560
+Bánh Canh Cua Oanh,"80 Văn Cao, P. Phú Thọ Hòa","10.78542, 106.63012",Bánh canh,45000,Full meal,Vietnamese,500
+Bún riêu,1348 Trường Sa Tân Bình,"10.78842, 106.65982",Bún riêu,45000,Full meal,Vietnamese,490
+Má heo Ngọc Yến,"51 đường số 10, Phường Linh Trung","10.79154, 106.67412",Má heo,45000,Full meal,Vietnamese,500
+Mì Gà Xá Kén K3,"82 Đường Đồng Đen, P. 14","10.79282, 106.64251",Mì gà ,30000,Full meal,Vietnamese,600
+Bánh Ướt & Bánh Cuốn,"752/53 Lạc Long Quân, P.9","10.78312, 106.64823",Bánh ướt/cuốn,30000,Full meal,Vietnamese,380
+Cơm Tấm Bà Chị Hai,"51 Đặng Văn Ngữ , P. 14","10.79051, 106.67123",Cơm tấm,60000,Full meal,Vietnamese,650
+Ốc Trứng Muối - Đường B6,"11 Đường B6, P. 12","10.80121, 106.64854",Ôc,40000,Full meal,Vietnamese,400
+Quán Bánh Canh Chả Cá Phan Rang,"135 Đình Phong Phú, P. Tăng Nhơn Phú B","10.83852, 106.77912",Bánh canh chả cá,25000,Full meal,Vietnamese,520
+Bò Kho Cây Thoại Ngọc Hầu,"644 Âu Cơ, P.10","10.78123, 106.64154",Bò Kho ,500000,Full meal,Vietnamese,550
+Jollibee Trần Hưng Đạo ,"356 Trần Hưng Đạo, Chợ Quán, Hồ Chí Minh, Việt Nam","10.75664089842632, 106.68497570642704",Gà sốt cay và mì ý,80000,Fast food,Vietnamese,850
+Jollibee Bình Long,"139 Đ. Bình Long, khu phố 27, Bình Trị Đông, Hồ Chí Minh, Việt Nam","10.78006433742263, 106.62019653741878",Gà sốt cay và mì ý,80000,Fast food,Vietnamese,850
+Jollibee Âu Cơ ,"650 Âu Cơ, Bảy Hiền, Hồ Chí Minh, Việt Nam","10.786146703775247, 106.64186127750179",Gà sốt cay và mì ý,80000,Fast food,Vietnamese,850
+Jollibee Trần Hưng Đạo 2,"875 Trần Hưng Đạo, Chợ Quán, Hồ Chí Minh 700000, Việt Nam","10.755140827430626, 106.67994050118925",Gà sốt cay và mì ý,80000,Fast food,Vietnamese,850
+Jollibee 268 Âu Cơ,"268 Âu Cơ, Tân Hòa, Hồ Chí Minh, Việt Nam","10.786798439455639, 106.64201438320127",Gà sốt cay và mì ý,80000,Fast food,Vietnamese,850
+Jollibee Lê Đức Thọ,"688 Đ. Lê Đức Thọ, An Hội Đông, Hồ Chí Minh 71414, Việt Nam","10.846504009638155, 106.67103878345304",Gà sốt cay và mì ý,80000,Fast food,Vietnamese,850
+Hồng Trà Ngô Gia - Quận 10,"577 Sư Vạn Hạnh, P. 13, Quận 10","10.77642, 106.66731",Hồng trà Đài Loan,20000,Drinks,Vietnamese,120
+Hồng Trà Ngô Gia - Quận 11,"340 Lãnh Binh Thăng, P. 11, Quận 11","10.76551, 106.64724",Hồng trà Đài Loan,20000,Drinks,Vietnamese,120
+Hồng Trà Ngô Gia - Tân Bình 1,"181 Bùi Thị Xuân, P. 1, Tân Bình","10.79354, 106.65821",Hồng trà Đài Loan,20000,Drinks,Vietnamese,120
+Hồng Trà Ngô Gia - Tân Bình 2,"48 Đồng Đen, P. 12, Tân Bình","10.79342, 106.64312",Hồng trà Đài Loan,20000,Drinks,Vietnamese,120
+Hồng Trà Ngô Gia - Phú Nhuận 1,"11 Hoa Sữa, P. 7, Phú Nhuận","10.79685, 106.68921",Hồng trà Đài Loan,20000,Drinks,Vietnamese,120
+Hồng Trà Ngô Gia - Phú Nhuận 2,"150 Phan Xích Long, P. 7, Phú Nhuận","10.79612, 106.68541",Hồng trà Đài Loan,20000,Drinks,Vietnamese,120
+Hồng Trà Ngô Gia - Tân Phú 1,"50 Nguyễn Xuân Khoát, P. Tân Thành, Tân Phú","10.79321, 106.63415",Hồng trà Đài Loan,20000,Drinks,Vietnamese,120
+Hồng Trà Ngô Gia - Tân Phú 2,"80 Văn Cao, P. Phú Thọ Hòa, Tân Phú","10.78542, 106.63012",Hồng trà Đài Loan,20000,Drinks,Vietnamese,120
+Hồng Trà Ngô Gia - Bình Thạnh,"1 Huỳnh Đình Hai, P. 14, Bình Thạnh","10.80154, 106.69521",Hồng trà Đài Loan,20000,Drinks,Vietnamese,120
+Hồng Trà Ngô Gia - Thủ Đức,"51 Đường Số 10, P. Linh Trung, Thủ Đức","10.86542, 106.78213",Hồng trà Đài Loan,20000,Drinks,Vietnamese,120
+Highlands Coffee - Bitexco,"Tòa nhà Bitexco, 2 Hải Triều, P. Bến Nghé, Quận 1","10.77242, 106.70481",Cà phê phin sữa đá,50000,Drinks,Vietnamese,160
+Highlands Coffee - Diamond Plaza,"34 Lê Duẩn, P. Bến Nghé, Quận 1","10.78164, 106.69982",Phindi hạnh nhân,55000,Drinks,Vietnamese,240
+Highlands Coffee - Landmark 81,"Tòa nhà Landmark 81, 208 Nguyễn Hữu Cảnh, Bình Thạnh","10.79501, 106.72192",Cà phê phin sữa đá,50000,Drinks,Vietnamese,160
+Highlands Coffee - Crescent Mall,"Tầng trệt, Crescent Mall, 101 Tôn Dật Tiên, Quận 7","10.72912, 106.71915",Phindi sữa tươi,50000,Drinks,Vietnamese,190
+Trà trái cây Tâm Thức,"528/27a Điện Biên Phủ, Khu phố 3, Vườn Lài, Hồ Chí Minh, Việt Nam","10.772889322563449, 106.67752437284716",Trà trái cây,30000,Snack,Drinks,180
+Bếp Nhà Mợ Hạnh,"Điện Biên Phủ/528/45 Tổ 25, Khu Phố 3, Vườn Lài, Hồ Chí Minh, Việt Nam","10.773145537813106, 106.6774042446641",Cơm trưa,30000,Full meal,Vietnamese,700
+Phở Bi Sắt,"482/15/34 Điện Biên Phủ, Vườn Lài, Hồ Chí Minh, Việt Nam","10.773017382716745, 106.67769606583701",Phở ngó,45000,Fast food,Vietnamese,450
+AYO - Yogurt. Icecream. Coffee,"77 3 Tháng 2, Vườn Lài, Hồ Chí Minh 00700, Việt Nam","10.773671597263874, 106.67777126829141",Nước giải khát,30000,Fast food,Dessert,150
+Phan Lê - Bún cá lóc,"Q10 Cao Thắng, Vườn Lài, Hồ Chí Minh, Việt Nam","10.773446377980381, 106.67806294921239",Bún cá lóc,60000,Full meal,Vietnamese,420
+BAMI NGUYEN - BÁNH MÌ BƠ CỐM,"147 Cao Thắng, Vườn Lài, Hồ Chí Minh, Việt Nam","10.773318168477564, 106.67824130459236",BÁNH MÌ BƠ CỐM,38000,Fast food,Vietnamese,430
+Gà Ta 49 - Cơm gỏi gà ngon (Cô Chín),"Cao Thắng/137 Tổ 20, khu phố 3, Vườn Lài, Hồ Chí Minh, Việt Nam","10.773191262446538, 106.67826044280321",Cơm gỏi gà,70000,Full meal,Vietnamese,600
+Tiệm Phở Mợ Út Sài Gòn,"117a Cao Thắng, Vườn Lài, Hồ Chí Minh 70000, Việt Nam","10.773002716012364, 106.67853807747731",Tiệm Phở,45000,Full meal,Vietnamese,450
+Gà - Gỏi 9 Vị Rau,"139 Cao Thắng, Vườn Lài, Hồ Chí Minh, Việt Nam","10.773267495367444, 106.67837699753595",Gà - Gỏi,70000,Full meal,Vietnamese,450
+Cơm Gà Thuỳ Dương | Cơm Gà Ngon Quận 10,"482/15/7, 482/3 Điện biên phủ Tổ 22 Khu phố 3, Vườn Lài, Hồ Chí Minh, Việt Nam","10.77286484264652, 106.67846949888842",Cơm Gà,40000,Full meal,Vietnamese,650
+Chè Thanh Thanh,"Cao Thắng/142 Hoà Hưng, Vườn Lài, Hồ Chí Minh 70000, Việt Nam","10.773128708508942, 106.67877675871483",Chè thái,30000,Healthy meal,Dessert,400
+Bún bò hậu,"232/17a, Cao Thắng, Hòa Hưng, Hồ Chí Minh, Việt Nam","10.773945964822959, 106.67757834113833",Bún bò,50000,Full meal,Vietnamese,480
+Lục Trà Thăng Hoa - Cao Thắng,"194 Cao Thắng, Vườn Lài, Hồ Chí Minh, Việt Nam","10.773765869126063, 106.67805366079179",Lục Trà,30000,Fast food,Drinks,100
+Vua Mì Bò - 台湾牛肉麵 - Cao Thắng,"190 Cao Thắng, Vườn Lài, Hồ Chí Minh, Việt Nam","10.773712692254533, 106.67803787257333",Mì Bò,70000,Full meal,Chinese,560
+Crane Tea Cao Thắng,"168 Cao Thắng, Vườn Lài, Hồ Chí Minh, Việt Nam","10.773452975539582, 106.67834557742307",Trà sữa sữa,30000,Fast food,Drinks,450
+Quán Ốc Như,"650/4/29D Điện Biên Phủ, Vườn Lài, Hồ Chí Minh, Việt Nam","10.771019796182783, 106.67644392041119",Quán Ốc,100000,Fast food,Vietnamese,400
+The Coffee House,"86-88 Cao Thắng, Bàn Cờ, Hồ Chí Minh 700000, Việt Nam","10.771448428717846, 106.68091639292246",Quán cà phê,40000,Snack,Drinks,90
+Tiệm Ăn Siam,"132 Cao Thắng, Bàn Cờ, Hồ Chí Minh, Việt Nam","10.772747838676077, 106.6794843023061",Bún Thái,35000,Full meal,Vietnamese,520
+The Little Bean Coffee - Cao Thắng,"Cao Thắng/75 Bàn Cờ, Hồ Chí Minh 700000, Việt Nam","10.771908450946718, 106.6798174565416",Quán cà phê,60000,Snack,Drinks,90
+Maybe Coffee,"358/2b Điện biên phủ Tổ 3 Khu phố 1, Vườn Lài, Hồ Chí Minh, Việt Nam","10.775021991607334, 106.68075489892261",Quán cà phê,50000,Snack,Drinks,90
+Hancook Korean Fast Food,"263 Nguyễn Tri Phương, Diên Hồng, Hồ Chí Minh, Việt Nam","10.760558492042481, 106.66855974918538",Há cảo,80000,Snack,Chinese,300
+Tiệm Bún Đậu CÁM,"206 Nguyễn Tri Phương, Vườn Lài, Hồ Chí Minh 72500, Việt Nam","10.760956460794546, 106.6687766489084",Bún,75000,Healthy meal,Vietnamese,420
+TOSHIRO RAMEN,"184 Nguyễn Tri Phương, Vườn Lài, Hồ Chí Minh 72517, Việt Nam","10.760518503915359, 106.6689025597629",Mì,30000,Full meal,Japanese,500
+Chicken Plus Nguyễn Tri Phương,"226 Nguyễn Tri Phương, Vườn Lài, Hồ Chí Minh 700000, Việt Nam","10.761316825746718, 106.66870009606498",Gà rán,200000,Fast food,Vietnamese,520
+Thái Sumo Lẩu cá viên - Ngô Gia Tự,"494 Ngô Gia Tự, Vườn Lài, Hồ Chí Minh 70000, Việt Nam","10.760324724974133, 106.66904290875809",Lẩu cá viên,150000,Snack/ Fast food,Vietnamese,600
+Hải sản Hoàng Gia CN Nguyễn Tri Phương,"235 Nguyễn Tri Phương, Diên Hồng, Hồ Chí Minh 70000, Việt Nam","10.760183117206369, 106.66867875999509",Hải sản,1000000,Full meal,Vietnamese,650
+Hải Sản Quý Thành,"303 Nguyễn Tri Phương, Diên Hồng, Hồ Chí Minh 70000, Việt Nam","10.761597695614302, 106.66837502269141",Lẩu hải sản,800000,Full meal,Vietnamese,750
+Bánh mì Brunchi,"37 Đ. Đào Duy Từ, Diên Hồng, Hồ Chí Minh 722200, Việt Nam","10.760523262487718, 106.66771144429075",Bánh mì,20000,Fast food,Vietnamese,430
+CƠM GÀ Tam KỲ,"65 Đ. Đào Duy Từ, Diên Hồng, Hồ Chí Minh, Việt Nam","10.760466759577604, 106.66728516238895",Cơm gà,30000,Full meal,Vietnamese,650
+Hủ Tiếu Mì Quảng Đông,"395/15 Hoà Hảo, Diên Hồng, Hồ Chí Minh, Việt Nam","10.7611856242875, 106.66739476987365",Hủ tiếu,45000,Fast food,Vietnamese,520
+Wallace Nguyễn Tiểu La,"24 Nguyễn Tiểu La, Phường 8, Quận 10, Hồ Chí Minh 700000, Việt Nam","10.760418235848604, 106.66717827732087",Gà,50000,Fast food,Western,450
+Ăn Vặt Khánh Ngọc,"52 Đ. Đào Duy Từ, Diên Hồng, Hồ Chí Minh 700925, Việt Nam","10.760567445313908, 106.6671972574385",Bánh ngọt,30000,Snack,Dessert,350
+Cơm phần Hủ Tiếu Mì Nui 27k,"56 Đ. Đào Duy Từ, Diên Hồng, Hồ Chí Minh, Việt Nam","10.760555587608774, 106.66702693716203",Hủ tiếu,35000,Fast food,Vietnamese,520
+"Sinh tố Hẻm, Đại học Kinh tế HCM","394 Hoà Hảo, Diên Hồng, Hồ Chí Minh, Việt Nam","10.760629444479093, 106.66748278550965",Sinh tố,10000,Healthy meal,Drinks,250
+Bếp Cô Vân,"40 Đ. Đào Duy Từ, Diên Hồng, Hồ Chí Minh 70000, Việt Nam","10.76062494069831, 106.66734468337573",Cơm trưa,30000,Full meal,Vietnamese,700
+Rau Má Mix - Nguyễn Tri Phương,"269 Nguyễn Tri Phương, Diên Hồng, Hồ Chí Minh 70000, Việt Nam","10.760663755581799, 106.66855407306943",Nước rau má,12000,Healthy meal,Vietnamese,120
+Sâm Bí Đao MIKI,"267 Nguyễn Tri Phương, Diên Hồng, Hồ Chí Minh, Việt Nam","10.76058776545155, 106.66857400870147",Nước bí đao,15000,Healthy meal,Vietnamese,110
+Trà Sữa Olong LaSiMi - Nguyễn Tri Phương,"253 Nguyễn Tri Phương, Diên Hồng, Hồ Chí Minh 72406, Việt Nam","10.760312007292686, 106.66855965504071",Trà sữa,15000,Healthy meal,Vietnamese,450
+Hồng Trà Sữa Ba Cô Gái Tam Hảo Nguyễn Tri Phương,"245 Nguyễn Tri Phương, Diên Hồng, Hồ Chí Minh, Việt Nam","10.76017647833161, 106.66859155205961",Trà sữa,12000,Healthy meal,Vietnamese,450
+Ốc Bay - Nguyễn Tri Phương,"236 Nguyễn Tri Phương, Diên Hồng, Hồ Chí Minh 70000, Việt Nam","10.760097354460155, 106.6686082979941",Ốc bay,150000,Fast food,Dessert,450
+Ẩm Thực Ông Lý,"196 Nguyễn Tri Phương, Vườn Lài, Hồ Chí Minh 70000, Việt Nam","10.760598689258174, 106.66884823669906",Há cảo,45000,Fast food,Chinese,300
+SushiWay Nguyễn Tri Phương,"192-194 Nguyễn Tri Phương, Vườn Lài, Hồ Chí Minh 700000, Việt Nam","10.760601803767567, 106.66890124568211",Sushi,120000,Full meal,Japanese,400
+Hà Thành Quán,"210 Nguyễn Tri Phương, Vườn Lài, Hồ Chí Minh 700000, Việt Nam","10.761005245997493, 106.66877122268014",Bún phở,30000,Full meal,Vietnamese,460
+Tiệm Trà Soli - SOLITEA Nguyễn Tri Phương,"206 Nguyễn Tri Phương, Vườn Lài, Hồ Chí Minh 700000, Việt Nam","10.760975242155391, 106.66886746433427",Trà sữa,25000,Fast food,Vietnamese,450
